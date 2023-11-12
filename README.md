@@ -28,6 +28,10 @@ $ ./blender3.6/3.6/python/bin/python.exe -m pip install scipy
 
 ![動作例](https://github.com/master-jedi365/SLAM_viewer/assets/86700262/70f34dcc-a6ad-4c9c-b8ed-6b142472bb6e)
 
+カメラの位置姿勢は以下のオブジェクトでアニメーション付きで可視化される
+
+![カメラ](pic/cam_pose.png)
+
 ## サンプルデータ
 stella-vslamの`aist_living_lab_1`データセットと処理結果を利用させていただきました
 https://github.com/stella-cv/stella_vslam
