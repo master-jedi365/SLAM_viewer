@@ -1,4 +1,4 @@
-# 機器学習サンプルコード集
+# Blender用SLAM実行結果可視化スクリプト
 
 ## 動作確認環境
 | 項目 | 内容 |
@@ -19,7 +19,7 @@ $ ./blender3.6/3.6/python/bin/python.exe -m pip install scipy
 $ docker build -t ml_sample:latest .
 ```
 
-![動作例](pic/annimation.gif)
+![動作例](https://github.com/master-jedi365/SLAM_viewer/assets/86700262/70f34dcc-a6ad-4c9c-b8ed-6b142472bb6e)
 
 ---
 ## 実行スクリプト説明
